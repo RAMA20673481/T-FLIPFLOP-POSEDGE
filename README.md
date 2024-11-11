@@ -43,4 +43,5 @@ From the above characteristic table, we can directly write the next state equati
 ![Screenshot 2024-11-11 141417](https://github.com/user-attachments/assets/d38cad1b-45da-4ada-b09c-999eacd0b25e)
 
 **RESULTS**
+
 Thus the RTL and Waveform of T-FLIPFLOP has been verified and implemented
